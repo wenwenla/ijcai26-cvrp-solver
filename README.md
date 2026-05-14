@@ -22,6 +22,8 @@ By default, the evaluation is conducted on CVRP instances with n=50. If you woul
 
 You can download model from https://box.nju.edu.cn/d/8084206b2e5f4afab106/, place ```299.pt``` into ```logs/debug-50``` or ```logs/debug-100```.
 
+### acknowledgement
+
 We thank RouteFinder for the datasets and codes. 
 In addition, the prior work https://github.com/wenwenla/ecai-2025-mtsp-solver associated with this project may also be helpful.
 
