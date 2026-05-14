@@ -1,0 +1,4 @@
+*.pt
+cvrp_split_solver/build
+.vscode
+__pycache__

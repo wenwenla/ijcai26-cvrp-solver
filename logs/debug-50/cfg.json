@@ -1,0 +1,18 @@
+{
+    "epochs": 300,
+    "epoch_size": 1280000,
+    "nodes": 50,
+    "folder": "debug-50",
+    "aug": 1,
+    "pomo": 8,
+    "multi_start": 0,
+    "batch": 512,
+    "seed": 3333,
+    "ft": null,
+    "rescale": 0,
+    "div": 2,
+    "resume": null,
+    "lr": -1.0,
+    "focus": [],
+    "net": 0
+}
