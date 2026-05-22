@@ -28,7 +28,7 @@ We thank RouteFinder for the datasets and codes.
 In addition, the prior work https://github.com/wenwenla/ecai-2025-mtsp-solver associated with this project may also be helpful.
 
 
-Please consider cite our paper.
+Please consider citing our paper.
 
 TODO: bib
 
