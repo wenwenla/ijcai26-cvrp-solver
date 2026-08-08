@@ -25,8 +25,6 @@ You can download model from https://box.nju.edu.cn/d/8084206b2e5f4afab106/, plac
 ### acknowledgement
 
 We thank RouteFinder for the datasets and codes. 
-In addition, the prior work https://github.com/wenwenla/ecai-2025-mtsp-solver associated with this project may also be helpful.
-
 
 Please consider citing our paper.
 
