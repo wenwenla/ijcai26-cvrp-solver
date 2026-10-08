@@ -20,7 +20,7 @@ By default, the evaluation is conducted on CVRP instances with n=50. If you woul
 
 ### pretrained models
 
-You can download model from https://box.nju.edu.cn/d/8084206b2e5f4afab106/, place ```299.pt``` into ```logs/debug-50``` or ```logs/debug-100```.
+You can download model from [this link](https://drive.google.com/drive/folders/1xGeB8OxcNSqVg31QUDRdGo5D-1fNymcg?usp=sharing), place ```299.pt``` into ```logs/debug-50``` or ```logs/debug-100```.
 
 ### acknowledgement
 
