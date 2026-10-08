@@ -28,5 +28,20 @@ We thank RouteFinder for the datasets and codes.
 
 Please consider citing our paper.
 
-TODO: bib
+```
+@inproceedings{ijcai2026p691,
+  title     = {A Unified Knowledge Embedded Reinforcement Learning-based Framework for Generalized Capacitated Vehicle Routing Problems},
+  author    = {Wang, Wen and Wu, Xiangchen and Wang, Liang and Hu, Hao and Tao, Xianping},
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on
+               Artificial Intelligence, {IJCAI-26}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Diego Calvanese},
+  pages     = {6208--6216},
+  year      = {2026},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2026/691},
+  url       = {https://doi.org/10.24963/ijcai.2026/691},
+}
+```
 
