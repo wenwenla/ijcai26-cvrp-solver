@@ -9,18 +9,16 @@ This is the official repository for "A Unified Knowledge Embedded Reinforcement 
 
 ```python3 evaluate.py```
 
-Currently, you can use python3 evaluate.py to perform performance evaluation. 
+Currently, you can use python3 evaluate.py to perform the quality-side evaluation. 
 If you need to use different datasets or evaluation parameters, please modify **line 24/29** (TODO). 
 I apologize for the current disorganized structure of the evaluation code. 
-When I have time, I will refactor the related evaluation code using command-line arguments.
 
-By default, the evaluation is conducted on CVRP instances with n=50. If you would like to use other datasets, please download the corresponding data from https://huggingface.co/ai4co/routefinder
- and place the files into the data folder.
+By default, the evaluation is conducted on CVRP instances with n=50. If you would like to use other datasets, please download the corresponding data from https://huggingface.co/ai4co/routefinder and place the files into the data folder.
 
 
 ### pretrained models
 
-You can download model from [this link](https://drive.google.com/drive/folders/1xGeB8OxcNSqVg31QUDRdGo5D-1fNymcg?usp=sharing), place ```299.pt``` into ```logs/debug-50``` or ```logs/debug-100```.
+You can download models from [this link](https://drive.google.com/drive/folders/1xGeB8OxcNSqVg31QUDRdGo5D-1fNymcg?usp=sharing), place ```299.pt``` into ```logs/debug-50``` or ```logs/debug-100```.
 
 ### acknowledgement
 
